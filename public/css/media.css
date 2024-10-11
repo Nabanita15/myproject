@@ -1,0 +1,687 @@
+@media only screen and (min-width: 320px) and  (max-width: 767px){
+.navbar-expand-lg div#navbarScroll {
+    margin: 0;
+}
+.banner-section h1 {
+    font-size: 29px;
+}
+#top-bar.top-bar {
+    display: none;
+}
+.banner-section .banner-text .button-cen {
+    display: unset;
+}
+.search-top input {
+    padding-right: 0px;
+}
+.search-top .pyle {
+    display: none;
+}
+.navbar-expand-lg .navbar-bran a {
+    display: flex;
+    width: 87%;
+}
+.navbar-expand-lg .navbar-bran {
+    width: 100%;
+}
+.navbar-nav {
+    width: 100% !important;
+    padding-top: 25px;
+}
+.search-top form .d-flex {
+    padding-top: 15px;
+    display: none !important;
+}
+.search-top .icon-search .icon-accon {
+    margin-left: 15px;
+}
+.search-top .icon-search {
+    display: none;
+}
+.navbar-expand-lg button.navbar-toggler {
+    margin-left: 266px;
+    margin-top: -35px;
+    width: 10%;
+}
+.teas-section .teas-hdding p {
+    font-size: 13px;
+}
+.organic-section .text-center .bor p.mb-4 {
+    font-size: 13px;
+}
+.natura-section .box-n a {
+    font-size: 13px;
+}
+.health-section p {
+    font-size: 13px;
+}
+.health-section .button a {
+    font-size: 14px;
+    padding: 10px 24px;
+}
+.search-top .d-plye {
+    display: none;
+}
+.search-top {
+    padding: 15px 0;
+}
+.banner-section {
+    padding: 80px 0px 0px 0;
+}
+.marquee-inner { 
+    padding: 3vh 0;
+}
+.navbar-expand-lg {
+    padding: 0px 0;
+}
+ #top-bar.top-bar {
+    display: none;
+}
+.banner-section .banner-text {
+    padding: 5px;
+    width: 84%;
+    margin: 30px 0 !important;
+}
+
+.search-top .navbar li {
+    padding-left: 0px;
+}
+.header-sction .search-top .logo-img {
+    padding-top: 0px;
+}
+.organic-section .text-center .bor .text-uppercase {
+ font-size: 25px;
+}
+.banner-section .bac-colr {
+    background: 0;
+    padding: 0px 0;
+}
+.organic-section .text-center .bor .product s.product__compare-at-price {
+    margin-top: 1px;
+}
+#clockdiv {
+    font-size: 20px;
+}
+.banner-section .banner-text .botton1 {
+    width: 100%;
+}
+#clockdiv > div {
+    padding: 0px; box-shadow: none;
+}
+.banner-section .banner-text .botton1 a {
+       font-size: 13px;
+   padding: 10px 24px;
+
+}
+.natura-section .box-l .botton a {
+   
+    font-size: 13px;
+    padding: 10px 24px;
+   
+}
+.our-section .button a {
+    font-size: 13px;
+    padding: 10px 24px;
+}
+.organic-section .text-center .bor a.btn.btn-primary.py-2.px-4 {
+    font-size: 13px;
+    padding: 10px 24px !important;
+}
+.banner-section .banner-text .botton2 a {
+    font-size: 13px;
+    padding: 10px 16px;
+}
+.banner-section .banner-text .botton2 {
+    width: 100%;
+    margin: 10px 0 15px 0;
+}
+span.h-style {
+    font-size: 28px;
+}	
+.banner-section p {
+    font-size: 14px;
+    padding: 10px 0;
+}
+.slick.marquee.slick-initialized.slick-slider {
+    width: 100%;
+}
+.header-sction .search-top .logo-img img {
+    width: 50%;
+}
+.element.slick-slide {
+    width: 100% !important;
+}
+.natura-section .box-l {
+    padding: 0px 0px;
+    margin-bottom: 25px;
+}
+.organic-section .text-center {
+    padding: 10px;
+}
+
+.organic-section .text-center .bor .display-6 {
+    font-size: 1.5rem;
+    padding: 3px;
+    margin-left: 12px;
+}
+.counter-box span.counter {
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 0px;
+    border-radius: 6px;
+}
+.counter-box {
+    padding: 2px 6px 6px;
+    margin-left: 6px;
+}
+.teas-section .teas-hdding {
+    padding: 0px 0;
+    padding-left: 0px;
+}
+.natura-section {
+    padding: 20px 0;
+}
+.organic-section {
+    padding: 20px 0;
+}
+.teas-section {
+    background: none;
+    padding: 0px 0;
+}
+.teas-section .teas-hdding .button a {
+    font-size: 13px;
+    padding: 10px 24px;
+}
+.late-section {
+    padding: 20px 0;
+    padding-bottom: 0;
+}
+.hding-tow {
+    padding-bottom: 0px;
+}
+.late-section .teas-hdding {
+    padding: 10px 0px;
+}
+.ultimate-section img {
+    display: none;
+}
+.ultimate-section .img-d {
+    margin-bottom: 0px;
+}
+.ultimate-section {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.health-section .hding-tow h2 {
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+.ultimate-section .Contact-center {
+    padding: 0;
+    width: 100%;
+}
+.ultimate-section .Contact-center p {
+    margin-left: 0px; 
+     margin-right: 0px;
+}
+.health-section {
+    padding: 20px 0;
+}
+p {
+    font-size: 13px;
+}
+.ultimate-section .Contact-center .button a {
+    font-size: 13px;
+    padding: 10px 24px;
+}
+
+.health-section p {
+    width: 100%;
+    text-align: left;
+}
+.health-section .button {
+    text-align: left;
+    margin-bottom: 15px;
+}
+.testimonial-section {
+    padding: 0;
+}
+.carousel-item .carousel-ir .text p {
+    padding: 15px 22px;
+    font-size: 13px;
+}
+.world-section .right-img {
+    padding-top: 0px;
+}
+.world-section .img-d img {
+    display: none;
+}
+.form-fields {
+    text-align: center;
+    width: 100%;
+}
+.organic-section .img-left img {
+    width: 100%;
+    margin-bottom: 25px;
+}
+.bac-product .bc-right {
+    padding: 21px 14px;
+    background-position: right;
+}
+.bac-product .bc-left {
+    padding: 21px 14px;
+    background-position: right;
+}
+.bac-product .bc-img {
+    margin-bottom: 25px;
+}
+.bac-product {
+    padding: 20px 0;
+}
+
+.input-section .form-fields input {
+    padding: 8px 15px;
+    padding-right: 0px;
+}
+.form-fields button {
+    padding: 7px 14px;
+}
+.icon-section .icon-div {
+    border-bottom: 2px solid #22a1491f; border-left: 0;
+}
+
+.marquee {
+    width: 100%;
+}
+.slider-iner {
+    width: 100%;
+}
+.our-section .box-n a {
+
+    padding: 5px 0;
+
+}
+.our-section {
+    padding-top: 0;
+}
+.bac-product {
+    padding: 0;
+}
+.teas-section .teas-hdding h2 {
+    padding: 0px 0;
+    padding-bottom: 14px;font-size: 25px;
+}
+.bac-product .banner-content h4 {
+    font-size: 19px;
+}
+.bac-product .banner-content h5 {
+    font-size: 10px;
+}
+button.product-card__quick-add-button {
+    font-size: 14px;
+}
+.our-section p.save {
+    font-size: 13px;
+}
+.hding-tow h2 {
+    font-size: 25px;
+}
+.our-section .xs-col-3.sm-col-3.col-md-3.col-lg-3 {
+    margin-bottom: 25px;
+}
+.our-section .button {
+    margin: 0px 0 0 0;
+}
+.accordi-section .box-prodct {
+    margin-bottom: 25px;
+}
+.article-section .article-box {
+    margin-bottom: 25px;
+}
+.herbals-section .hding-tow {
+    padding-left: 0px;
+}
+.herbals-section .hding-tow h2 {
+    color: #6c342D;
+}
+.herbals-section {
+    display: none;
+}
+.golden-section .img-farm {
+    justify-content: center;
+}
+.herbal-technology .article-box {
+    margin-bottom: 25px;
+}
+.herbal-technology {
+    padding: 20px 0;
+    padding-bottom: 0;
+}
+.golden-section {
+    padding: 0;
+}
+.golden-section .hding-tow {
+    padding: 0;
+}
+.article-section {
+    margin-bottom: 0px;
+}
+.accordi-section {
+    padding: 30px 0;
+    padding-bottom: 0;
+}
+div#Price-section .box-prodct {
+    margin-bottom: 25px;
+}
+.carousel-item .carousel-ir {
+    padding: 0px 0px;
+   
+}
+.carousel-item .carousel-ir .img-e img {
+    border: 2px solid #22A149;
+    width: 37%;
+}
+.icon-section {
+    padding: 0px 0;
+}
+.input-section h4 {
+    margin: 0;
+    padding: 0px 0  5px 0;
+}
+
+.our-banner {
+    padding: 96px 0 25px 0;
+}
+.accordi-section form.range-form {
+    padding: 20px 0;
+}
+.accordi-section .text-proc p {
+    font-size: 13px;
+}
+.article-section .article-box p {
+    font-size: 13px;
+    margin: 0;
+}
+.article-section .article-box a {
+    font-size: 13px;
+    padding: 9px 20px;
+  
+}
+.accordi-section .text-proc a {
+    font-size: 13px;
+    padding: 10px 24px;
+}
+.golden-section .hding-tow p {
+    font-size: 13px;
+}
+.golden-section img {
+    width: 100%;
+}
+footer.footer {
+    padding: 0px 0px 0px 0px;
+}
+.footer_sp img {
+    width: 52%;
+}
+.article-box.abx {
+    margin-bottom: 0;
+}
+div#Price-section {
+    padding: 30px 0;
+}
+.Price-section .text-proc p {
+    font-size: 13px;
+}
+.Price3-section .text-proc p {
+    font-size: 13px;
+}
+
+.section-bg {
+    padding-bottom: 0px;
+    padding-top: 30px;
+}
+._boxzoom ._product-images {
+    width: 67%;
+}
+._boxzoom ._product-images .picZoomer .picZoomer-pic-wp img {
+    width: 100%;
+}
+._product-detail-content {
+    padding-left: 0px;
+    padding-top: 0px;
+}
+.p-list {
+    margin-bottom: 0px;
+}
+p._p-name {
+    margin: 0;
+}
+._p-features > span {
+    padding-top: 0;
+	font-size:13px;
+}
+.action-link a.add-to-cart {
+    font-size: 13px;
+    padding: 10px 24px;
+}
+.tab button {
+    font-size: 20px;
+}
+.tab p {
+    padding-top: 0;
+    padding: 0;
+    margin: 0;
+}
+.tab {
+    padding-bottom: 0px;
+}
+.related-Product .col-md-3 {
+    margin-bottom: 25px;
+}
+.related-Product {
+    padding-bottom: 0px;
+}
+.related-Product .margin {
+    margin-bottom: 15px;
+}
+.value-button.decrease_ {
+    top: 2px; 
+}
+._p-qty .increase_ {
+    top: 2px;
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+.banner-section .bac-colr {
+    padding: 45px 0;
+}
+.banner-section {
+    padding: 212px 0px 47px 0;
+}
+.search-top .icon-search .icon-accon {
+    float: right;
+    margin-left: 0px;
+    width: 53%;
+}
+.search-top input {
+    padding-right: 0px;
+}
+div#countdown li span {
+    font-size: 1rem !important;
+}
+.banner-section .banner-text {
+    padding: 20px;
+    width: 80%;
+}
+.natura-section p.save {
+    padding: 2px 5px;
+    font-size: 13px; 
+}
+.natura-section .box-n {
+    padding: 10px;
+}
+.counter-box span.counter {
+    font-size: 1.5rem;
+  padding: 2px;
+   
+}
+.slider-iner {
+    width: 63%;
+}
+.header-sction .search-top .logo-img img {
+    width: 80%;
+}
+div#countdown li {
+    margin-left: 8px;
+}
+.our-section .box-n {
+    padding: 10px;
+}
+.our-section .xs-col-3.sm-col-3.col-md-3.col-lg-3 {
+    padding: 5px;
+}
+.our-section .box-n .pro-price p.product__product-price {
+    padding: 0 5px;
+}
+.our-section p.save {
+    padding: 4px 6px;
+}
+
+.bac-product .bc-left {
+    padding: 76px 0px;
+}
+.bac-product .bc-right {
+    padding: 76px 0px;
+}
+.teas-section {
+    background: none;
+}
+.counter-box {
+    margin-left: 6px; 
+}
+.organic-section .text-center {
+    padding: 15px;
+}
+.teas-section .teas-hdding {
+    padding: 0px 0;
+    padding-left: 0px;
+}
+.teas-section .img-d img {
+    width: 80%;
+    display: unset;
+}
+.ultimate-section .Contact-center {
+    padding: 0px 0px;
+    text-align: center;
+}
+.ultimate-section .Contact-center p {
+    margin-left: -52px;
+    margin-right: -64px;
+}
+.ultimate-section .img-e {
+    margin-top: 16px;
+}
+.health-section p {
+    width: 98%;
+}
+.world-section .img-d img {
+    margin-top: 85px;
+}
+.input-section .form-fields input {
+    padding-right: 120px;
+}
+
+footer.footer-section .link-section .xs-col-3.sm-col-3.col-md-3.col-lg-3 {
+    width: 50%;
+    margin-bottom: 30px;
+}
+footer.footer-section .link-section .footer-hdding  p {
+    width: 72%;
+}
+footer.footer-section .link-section {
+    padding-bottom: 30px;
+}
+
+.accordi-section .text-proc a {
+    padding: 10px 8px;
+}
+.accordi-section .text-proc img {
+    width: 23%;
+}
+.box-prodct {
+    padding: 5px !important;
+}
+.accordi-section .text-proc span.actualPrice {
+    padding: 0px 6px;
+}
+.golden-section .img-farm {
+  display: unset; 
+    text-align: center;
+}
+.golden-section img {
+    width: 92%;
+    margin-top: 136px;
+}
+._boxzoom ._product-images {
+    width: 69%;
+}
+
+._boxzoom ._product-images .picZoomer .picZoomer-pic-wp img {
+    width: 100%;
+}
+._product-detail-content {
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+}
+
+
+@media only screen and (min-width:1025px)and (max-width:1199px){
+
+.banner-section .banner-text .botton1 {
+    width: 34%;
+}
+.custom_discount-bsl {
+    font-size: 11px;
+    padding: 0 3px;
+    margin-top: 5px;
+}
+.natura-section .box-n .pro-price p.product__product-price {
+    padding: 0 8px;
+}
+.natura-section p.save {
+    padding: 4px 8px;
+}
+.counter-box span.counter {
+    padding: 0px;
+}
+.teas-section {
+    background-size: cover;
+}
+.teas-section .teas-hdding {
+    padding: 1px 0;
+    padding-left: 189px;
+}
+.input-section .form-fields input {
+    padding-right: 269px;
+}
+.golden-section img {
+    width: 100%;
+}
+._boxzoom ._product-images {
+    width: 78%;
+}
+}
+
+
+@media only screen and (min-width:1300px)and (max-width:1400px){
+
+.natura-section .box-n .pro-price p.product__product-price {
+    padding: 0 44px;
+   
+}
+
+
+}
